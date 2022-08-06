@@ -1,0 +1,36 @@
+.main{
+  background-image: url("https://previews.123rf.com/images/1stchoice/1stchoice1602/1stchoice160200037/53541125-white-background-soft-light-grey-texture.jpg");
+  width: 100%;
+  height: 100%;
+}
+.secondDiv{
+  width: 100%;
+  /* border: 1px solid black; */
+  padding: 2%;
+}
+
+.allGraph{
+  display: flex;
+}
+.leftSideGraph{
+  padding: 2%;
+  /* border: 1px solid black; */
+}
+.twoGraph{
+  display: flex;
+  flex-direction: column;
+  padding: 1%;
+  justify-content: center;
+  
+  
+}
+.barGraphChart{
+  
+  width: 90%;
+  
+}
+
+.vl {
+  border-left: 1px solid grey;
+  height: 800px;
+}
